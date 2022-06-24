@@ -1,0 +1,17 @@
+sets.exported={
+    main="Eminent Voulge",
+    sub="Mensch Strap +1",
+    range="Boomerang +1",
+    head="Outrider Mask",
+    body="Outrider Mail",
+    hands="Outrider Mittens",
+    legs="Outrider Hose",
+    feet="Outrider Greaves",
+    neck="War. Beads +1",
+    waist="Speed Belt",
+    left_ear="Physical Earring",
+    right_ear="Cassie Earring",
+    left_ring="Moonlight Ring",
+    right_ring="Moonlight Ring",
+    back="Moonlight Cape",
+}

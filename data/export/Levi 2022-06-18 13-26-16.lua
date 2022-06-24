@@ -1,0 +1,16 @@
+sets.exported={
+    main="Ames",
+    sub="Sors Shield",
+    range="Matre Bell",
+    head="Ea Hat",
+    body="Ea Houppelande",
+    hands="Ea Cuffs",
+    legs="Ea Slops",
+    feet="Ea Pigaches",
+    neck="Bagua Charm +1",
+    waist="Othila Sash",
+    right_ear="Friomisi Earring",
+    left_ring="Icesoul Ring",
+    right_ring="Icesoul Ring",
+    back="Seshaw Cape +1",
+}

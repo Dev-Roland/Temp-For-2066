@@ -1,0 +1,16 @@
+sets.exported={
+    main="Rune Chopper",
+    sub="Brass Grip +1",
+    range="Boomerang +1",
+    head="Zeal Cap +1",
+    body="Byrnie +1",
+    legs="Cpc. Subligar +1",
+    feet="Hermes' Sandals",
+    neck="Peacock Charm",
+    waist="Speed Belt",
+    left_ear="Tor. Earring +1",
+    right_ear="Tor. Earring +1",
+    left_ring="Sniper's Ring +1",
+    right_ring="Sniper's Ring +1",
+    back="Accura Cape +1",
+}

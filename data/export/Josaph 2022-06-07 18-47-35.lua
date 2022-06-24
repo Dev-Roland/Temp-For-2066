@@ -1,0 +1,16 @@
+sets.exported={
+    main="Eminent Scimitar",
+    range="Jr.Msk.Chakram +2",
+    head="Espial Cap",
+    body="Espial Gambison",
+    hands="Espial Bracers",
+    legs="Espial Hose",
+    feet="Espial Socks",
+    neck="Mirage Stole +2",
+    waist="Sweordfaetels",
+    left_ear="Tor. Earring +1",
+    right_ear="Tor. Earring +1",
+    left_ring="Chirich Ring +1",
+    right_ring="Chirich Ring +1",
+    back="Aptitude Mantle +1",
+}

@@ -1,0 +1,16 @@
+sets.exported={
+    main="Eminent Staff",
+    sub="Elder's Grip +1",
+    ammo="Memoria Sachet",
+    head="Spae. Petasos +2",
+    body="Spaekona's Coat +2",
+    hands="Spae. Gloves +2",
+    legs="Spae. Tonban +2",
+    feet="Spae. Sabots +2",
+    neck="Src. Stole +1",
+    waist="Othila Sash",
+    right_ear="Friomisi Earring",
+    left_ring="Icesoul Ring",
+    right_ring="Icesoul Ring",
+    back="Seshaw Cape +1",
+}

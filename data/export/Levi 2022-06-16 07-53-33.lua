@@ -1,0 +1,16 @@
+sets.exported={
+    main="Idris",
+    sub="Sors Shield",
+    range="Matre Bell",
+    head="Geo. Galero +2",
+    body="Geomancy Tunic +2",
+    hands="Geo. Mitaines +2",
+    legs="Geomancy Pants +2",
+    feet="Geo. Sandals +2",
+    neck="Bagua Charm +1",
+    waist="Witful Belt",
+    right_ear="Friomisi Earring",
+    left_ring="Prolix Ring",
+    right_ring="Icesoul Ring",
+    back="Swith Cape +1",
+}
